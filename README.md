@@ -1,5 +1,5 @@
 # Lesson 10
-
+force push
 <- Back to [previous lesson](https://github.com/mongodb-developer/social-app-demo/tree/9-lesson)
 
 ---
